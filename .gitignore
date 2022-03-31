@@ -1,0 +1,10 @@
+/node_modules/
+
+package-lock.json
+
+config.json
+list.txt
+log.txt
+proxy.txt
+.stop
+*.zip
